@@ -1,5 +1,5 @@
 services:
-  -type: web
+  - type: web
   runtime: node
   name: jeweler-assistance
   repo: https://github.com/martamariapolak/jeweler-assistance
